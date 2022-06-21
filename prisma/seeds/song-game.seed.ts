@@ -3,7 +3,7 @@ export const songGameFiles = [
     letter: 'A',
     firstObjectName: 'Abelha',
     secondObjectName: 'Aranha',
-    thirdObjectName: 'Avião',
+    thirdObjectName: 'Aviao',
   },
   {
     letter: 'B',
@@ -55,7 +55,7 @@ export const songGameFiles = [
   },
   {
     letter: 'J',
-    firstObjectName: 'Jacaré',
+    firstObjectName: 'Jacare',
     secondObjectName: 'Joaninha',
     thirdObjectName: 'Jornal',
   },
@@ -99,7 +99,7 @@ export const songGameFiles = [
     letter: 'Q',
     firstObjectName: 'Quati',
     secondObjectName: 'Queijo',
-    thirdObjectName: 'Quebra-cabeca',
+    thirdObjectName: 'Quebracabeca',
   },
   {
     letter: 'R',
@@ -135,19 +135,24 @@ export const songGameFiles = [
     letter: 'W',
     firstObjectName: 'Wafer',
     secondObjectName: 'Windsurf',
+    thirdObjectName: 'Wifi',
   },
   {
     letter: 'X',
     firstObjectName: 'Xicara',
     secondObjectName: 'Xadrez',
+    thirdObjectName: 'Xarope',
   },
   {
     letter: 'Y',
     firstObjectName: 'Yogurte',
+    secondObjectName: 'Yoga',
+    thirdObjectName: 'Yakisoba',
   },
   {
     letter: 'Z',
     firstObjectName: 'Zebra',
     secondObjectName: 'Zoologico',
+    thirdObjectName: 'Zangao',
   },
 ];
