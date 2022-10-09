@@ -16,6 +16,11 @@ export class SongGameController {
     return this.songGameService.findAll();
   }
 
+  @Post('increase-amount-heard')
+  async increaseAmountHeard(@Body() data: { letter: string }) {
+    return this.songGameService.increaseAmountHeard(data.letter);
+  }
+
   @Get(':id')
   async findOne(@Param('id') id: string) {
     return this.songGameService.findOne(id);

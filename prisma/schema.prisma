@@ -16,5 +16,6 @@ model SongGame {
   firstObjectName     String  
   secondObjectName     String?  
   thirdObjectName     String?  
+  amountHeard Int? @default(0)
   @@map("song_game")
 }
