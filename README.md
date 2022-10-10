@@ -32,7 +32,7 @@
 $ npm install
 ```
 
-## Running the app
+## Commands to run the app:
 
 ```bash
 # development
